@@ -1,5 +1,7 @@
 This is a simple personal Chatbot partially trained to have a funny conversations with the use. It's sometimes meany and rude, but it's funny.
 
+I added an extra functionality to this Chatbot, it can now respond in voice not only text.
+
 ![WhatsApp Image 2025-02-19 at 3 49 31 PM](https://github.com/user-attachments/assets/944a2406-c952-4060-80a2-ce19ad1143bb)
 
 ![WhatsApp Image 2025-02-19 at 3 49 30 PM](https://github.com/user-attachments/assets/226789ee-7ae3-4d68-83f1-f7cd0c080442)
